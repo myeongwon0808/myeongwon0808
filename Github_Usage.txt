@@ -1,0 +1,11 @@
+Launch a project
+'Git init' to the project directory
+Coding...
+'Git add' changes that I want to upload (staging)
+'Commit' the changes (to local repository)
+'Push' the changes (to remote repository)
+DONE
+
+NOW YOU KNOW HOW TO USE GITHUB REPOSITORY
+
+by SungSoo Chung
